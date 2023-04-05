@@ -29,8 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="My SQL" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=bayotics
+
 
 
 
