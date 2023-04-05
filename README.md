@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Find Me on 
+
+<b>Find Me on</b> 
 <p align="center">
  <a href="https://github.com/Bayotics" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/abdullahi-shobaloju-23b395271/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -28,12 +29,11 @@ Find Me on
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="My SQL" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-## 🧰 Profile Visits:
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Bayotics)
-## 🧰 Account Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayotics&show_icons=true&theme=tokyonight)
-## 🧰 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=bayotics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bayotics&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayotics)](https://github.com/bayotics/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayotics&layout=compact&theme=vision-friendly-dark)](https://github.com/bayotics/github-readme-stats)
 
 
 
