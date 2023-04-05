@@ -13,7 +13,7 @@ Find Me on
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongo db" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/640px-MongoDB_Logo.svg.png" alt="mongo db" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" alt="NuxtJs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
